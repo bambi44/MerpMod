@@ -1,9 +1,9 @@
-#define MOD_ECUID 006F3884D5
-#define MOD_DATE 14.10.17.17.16
+#define MOD_ECUID 6F8B34CC9E
+#define MOD_DATE 30.12.20.23.11
 #include "Gratis.h"
 #define MOD_CONFIG Gratis
-#define MOD_BUILD Debug
-#define MOD_RELEASE 0
+#define MOD_BUILD Release
+#define MOD_RELEASE 1
 #define ECU_CALIBRATION_ID A2ZJ500I
 #define ECU_IDENTIFIER 3112485106
 /////////////////////
@@ -60,6 +60,11 @@
 
 #define pBaseTiming (0xFFFFAF40)
 #define pKcaIam (0xFFFFB074)
+
+/////////////////////
+// Requested Torque Hacks
+/////////////////////
+
 
 /////////////////////
 // Spark Cut

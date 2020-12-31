@@ -118,10 +118,10 @@
 [BUILD_ORDER]
 "Git Hash" 1 
 "Target Selection" 1 
-"GNU Library Generator" 1 
-"GNU Compiler" 1 
-"GNU Assembler" 1 
-"GNU Linker" 1 
+"GNU Library Generator" 0 
+"GNU Compiler" 0 
+"GNU Assembler" 0 
+"GNU Linker" 0 
 "Update Test Rom" 1 
 [BUILD_PHASE_DETAILS]
 "GNU Assembler" "Assembly source file" 1 
@@ -143,6 +143,9 @@
 "Object file" "GNU Linker" "GNU Assembler" 
 "Object file" "GNU Linker" "GNU Compiler" 
 [PROJECT_FILES]
+"C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.h" "User" "C header file|ECU Specific Headers|USDM|FXT|A2ZJ500I_USDM_2004_FXT" 2 
+"C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.map" "User" "C header file|ECU Specific Headers|USDM|FXT|A2ZJ500I_USDM_2004_FXT" 2 
+"C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500IConfig.h" "User" "C header file|ECU Specific Headers|USDM|FXT|A2ZJ500I_USDM_2004_FXT" 2 
 "C:\Dev\MerpMod\MerpMod\BlendAndSwitch.c" "User" "C source file" 2 
 "C:\Dev\MerpMod\MerpMod\BoostHackTables.c" "User" "C source file|Data & Tables" 2 
 "C:\Dev\MerpMod\MerpMod\BoostHacks.c" "User" "C source file" 2 
@@ -381,6 +384,7 @@
 "C header file|ECU Specific Headers|USDM|Baja Turbo|A2WC501L_USDM_2005_BAJATURBO_MT" "" 
 "C header file|ECU Specific Headers|USDM|FXT" "" 
 "C header file|ECU Specific Headers|USDM|FXT|A2WC412I_USDM_2005_FXT" "" 
+"C header file|ECU Specific Headers|USDM|FXT|A2ZJ500I_USDM_2004_FXT" "" 
 "C header file|ECU Specific Headers|USDM|LGT" "" 
 "C header file|ECU Specific Headers|USDM|LGT|A2UG002T_USDM_2007_LGT_MT" "" 
 "C header file|ECU Specific Headers|USDM|LGT|A2WC522N_USDM_2005_LGT_MT" "" 
