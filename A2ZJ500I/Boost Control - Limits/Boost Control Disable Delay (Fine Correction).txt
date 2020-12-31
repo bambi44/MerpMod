@@ -1,0 +1,2 @@
+Period of Fine Knock Correction Continuously Below Threshold Before Boost Control Disable
+2.0

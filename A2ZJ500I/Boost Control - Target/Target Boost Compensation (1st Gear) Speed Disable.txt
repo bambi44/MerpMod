@@ -1,0 +1,2 @@
+Disable Compensation Above
+0.0

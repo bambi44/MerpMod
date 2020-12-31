@@ -1,0 +1,2 @@
+Post-Reset or Active Rough Correction Initial Reset Value
+0.8125

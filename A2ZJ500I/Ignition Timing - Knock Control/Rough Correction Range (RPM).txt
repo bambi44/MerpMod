@@ -1,0 +1,2 @@
+Disable Below	Enable Above	Enable Below	Disable Above
+2000.0	2100.0	5500.0	5600.0

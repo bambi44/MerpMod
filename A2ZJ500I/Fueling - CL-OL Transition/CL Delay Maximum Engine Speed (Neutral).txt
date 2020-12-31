@@ -1,0 +1,2 @@
+(Below) - Check Other CL Tables	(Above) - Clear CL Delay
+4200.0	4300.0
