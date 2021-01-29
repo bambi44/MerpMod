@@ -1,5 +1,5 @@
-#define MOD_ECUID CD98FA9A45
-#define MOD_DATE 
+#define MOD_ECUID 4C3A9D333F
+#define MOD_DATE 05.01.21.23.30
 #include "Flash.h"
 #define MOD_CONFIG Flash
 #define MOD_BUILD Testing

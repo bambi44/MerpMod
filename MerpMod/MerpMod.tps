@@ -13,7 +13,7 @@
 "Switch_Debug" 
 "Switch_Testing" 
 [CURRENT_CONFIGURATION]
-"Gratis_Debug" 
+"Flash_Testing" 
 [CURRENT_SESSION]
 "DefaultSession" 
 [GENERAL_DATA_PROJECT]
