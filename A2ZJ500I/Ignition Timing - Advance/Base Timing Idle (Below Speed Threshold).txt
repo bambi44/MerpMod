@@ -1,2 +1,0 @@
-Idle Base Timing Below 'Base Timing Idle Vehicle Speed Threshold'
-17.0

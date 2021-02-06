@@ -1,2 +1,0 @@
-Disable Below	Enable Above
-1650.0	1700.0

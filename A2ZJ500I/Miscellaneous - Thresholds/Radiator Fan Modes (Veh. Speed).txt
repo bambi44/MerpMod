@@ -1,2 +1,0 @@
-M0 max(-)|M1 min(-)	M0 max(+)|M1 min(+)|M1 max(-)	M1 min(-)	M1 max|M2 min	M2 max(-)|M3 dec(-)	M2 max(+)|M3 min
-6.21	12.42	39.744	43.47	62.1	65.826

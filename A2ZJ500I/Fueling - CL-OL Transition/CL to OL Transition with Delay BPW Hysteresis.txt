@@ -1,2 +1,0 @@
-Hysteresis Below 'CL to OL Transition with Delay (BPW)' Map Value
-0.256

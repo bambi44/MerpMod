@@ -1,2 +1,0 @@
-'No Knock' Delay Period for Negative Feedback Correction Advance
-125.0

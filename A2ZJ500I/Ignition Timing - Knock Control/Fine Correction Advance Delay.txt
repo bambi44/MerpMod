@@ -1,2 +1,0 @@
- 'No Knock' Delay Period for Positive Change to Fine Correction Stored Value 
-125.0

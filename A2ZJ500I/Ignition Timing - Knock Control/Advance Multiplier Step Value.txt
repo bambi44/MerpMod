@@ -1,2 +1,0 @@
-Initial IAM Step Value for Active Rough Correction
-0.25

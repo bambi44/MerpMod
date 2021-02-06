@@ -1,2 +1,0 @@
- Min 1st Gear / Max 2nd Gear 	 Min 2nd Gear / Max 3rd Gear 	 Min 3rd Gear / Max 4th Gear 	 Min 4th Gear / Max 5th Gear 	 Min 5th Gear / Max 6th Gear 
-8887.308056524933	4828.030000000001	4052.9110026521957	2994.127131782946	459.812380952381

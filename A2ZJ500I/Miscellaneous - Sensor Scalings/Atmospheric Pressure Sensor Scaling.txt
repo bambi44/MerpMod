@@ -1,2 +1,0 @@
-Offset (psi)	Multiplier (psi/v)
--2.9005155	4.8341925

@@ -1,2 +1,0 @@
- Max Range 1 / Min Range 2 	 Max Range 2 / Min Range 3 	 Max Range 3 / Min Range 4 	 Max Range 4 / Min Range 5 	 Max Range 5 / Min Range 6 	 Max Range 6 / Min Range 7 
-1600.0	2400.0	3200.0	4000.0	4800.0	5600.0

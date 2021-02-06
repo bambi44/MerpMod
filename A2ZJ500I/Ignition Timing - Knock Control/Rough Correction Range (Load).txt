@@ -1,2 +1,0 @@
-Disable Below	Enable Above	Enable Below	Disable Above
-0.25	0.4000000059604645	2.5	3.0

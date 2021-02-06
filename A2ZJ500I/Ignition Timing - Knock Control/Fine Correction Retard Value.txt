@@ -1,2 +1,0 @@
-Potential Change in Fine Correction Stored Value Per Knock 'Event'
--1.0099999904632568

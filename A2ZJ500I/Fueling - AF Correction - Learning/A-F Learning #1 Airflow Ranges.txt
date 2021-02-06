@@ -1,2 +1,0 @@
- Max Range A / Min Range B 	 Max Range B / Min Range C 	 Max Range C / Min Range D 
-5.599999904632568	10.0	40.0

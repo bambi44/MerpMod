@@ -5,15 +5,29 @@
 [CURRENT_PROJECT]
 "MerpMod" 
 [GENERAL_DATA]
-"BuildMultipleSettings" "" 
+"BuildMultipleSettings" "MerpMod|Flash_Testing|MerpMod|Flash_Debug|MerpMod|Switch_Testing|MerpMod|Gratis_Testing|MerpMod|Gratis_Debug|MerpMod|Switch_Debug||" 
 "ECXLABEL_LAST_FINDS_DATA" "" 
 [BREAKPOINTS]
 [OPEN_WORKSPACE_FILES]
+"C:\DEV\MerpMod\MerpMod\BoostHacks.c" 
+"C:\DEV\MerpMod\MerpMod\Debug.c" 
+"C:\DEV\MerpMod\MerpMod\EcuHacks.c" 
+"C:\DEV\MerpMod\MerpMod\Identifier.c" 
+"C:\DEV\MerpMod\MerpMod\SpeedDensity.c" 
+"C:\DEV\MerpMod\MerpMod\SwitchChecks.c" 
 "C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.h" 
 "C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.map" 
+"C:\DEV\MerpMod\MerpMod\TimingHacks.c" 
 [WORKSPACE_FILE_STATES]
-"C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.h" 26 26 749 378 0 1 
-"C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.map" -4 -27 939 591 1 2 
+"C:\DEV\MerpMod\MerpMod\BoostHacks.c" 52 52 749 378 0 2 
+"C:\DEV\MerpMod\MerpMod\Debug.c" 156 156 749 378 0 6 
+"C:\DEV\MerpMod\MerpMod\EcuHacks.c" 78 78 749 378 0 3 
+"C:\DEV\MerpMod\MerpMod\Identifier.c" 26 26 745 374 0 1 
+"C:\DEV\MerpMod\MerpMod\SpeedDensity.c" -4 -27 939 591 1 9 
+"C:\DEV\MerpMod\MerpMod\SwitchChecks.c" 0 0 749 378 0 8 
+"C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.h" 130 130 749 378 0 5 
+"C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.map" 104 104 749 378 0 4 
+"C:\DEV\MerpMod\MerpMod\TimingHacks.c" 182 182 749 378 0 7 
 [LOADED_PROJECTS]
 "MerpMod" 
 [END]

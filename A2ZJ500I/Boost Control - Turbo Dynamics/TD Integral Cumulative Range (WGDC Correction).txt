@@ -1,2 +1,0 @@
-Integral Cumulative Minimum	Integral Cumulative Maximum
--90.0	15.0

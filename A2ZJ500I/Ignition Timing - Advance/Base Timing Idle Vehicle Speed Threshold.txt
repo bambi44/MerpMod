@@ -1,2 +1,0 @@
-Table Switching Threshold
-1.242

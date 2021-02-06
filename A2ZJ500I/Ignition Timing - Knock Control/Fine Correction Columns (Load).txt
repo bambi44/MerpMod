@@ -1,2 +1,0 @@
- Max Range 1 / Min Range 2 	 Max Range 2 / Min Range 3 	 Max Range 3 / Min Range 4 	 Max Range 4 / Min Range 5 
-0.550000011920929	1.149999976158142	1.5	2.0

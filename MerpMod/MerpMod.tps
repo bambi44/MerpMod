@@ -4,6 +4,8 @@
 "1.1" 
 [SESSIONS_]
 "DefaultSession" 
+"legend" 
+"legendv1" 
 [CONFIGURATIONS]
 "Flash_Debug" 
 "Flash_Testing" 
@@ -13,7 +15,7 @@
 "Switch_Debug" 
 "Switch_Testing" 
 [CURRENT_CONFIGURATION]
-"Flash_Testing" 
+"Gratis_Testing" 
 [CURRENT_SESSION]
 "DefaultSession" 
 [GENERAL_DATA_PROJECT]
@@ -22,36 +24,66 @@
 "PROJECT_FILES_MODIFIED_DATA_TAG" "TRUE" 
 [SESSIONS_Flash_Debug]
 "DefaultSession" 
+"legend" 
+"legendv1" 
 [GENERAL_DATA_CONFIGURATION_Flash_Testing]
 "PROJECT_FILES_MODIFIED_DATA_TAG" "TRUE" 
 [SESSIONS_Flash_Testing]
 "DefaultSession" 
+"legend" 
+"legendv1" 
 [GENERAL_DATA_CONFIGURATION_Gratis_Debug]
 "PROJECT_FILES_MODIFIED_DATA_TAG" "TRUE" 
 [SESSIONS_Gratis_Debug]
 "DefaultSession" 
+"legend" 
+"legendv1" 
 [GENERAL_DATA_CONFIGURATION_Gratis_Release]
 "PROJECT_FILES_MODIFIED_DATA_TAG" "TRUE" 
 [SESSIONS_Gratis_Release]
 "DefaultSession" 
+"legend" 
+"legendv1" 
 [GENERAL_DATA_CONFIGURATION_Gratis_Testing]
-"PROJECT_FILES_MODIFIED_DATA_TAG" "TRUE" 
+"PROJECT_FILES_MODIFIED_DATA_TAG" "FALSE" 
 [SESSIONS_Gratis_Testing]
 "DefaultSession" 
+"legend" 
+"legendv1" 
 [GENERAL_DATA_CONFIGURATION_Switch_Debug]
 "PROJECT_FILES_MODIFIED_DATA_TAG" "TRUE" 
 [SESSIONS_Switch_Debug]
 "DefaultSession" 
+"legend" 
+"legendv1" 
 [GENERAL_DATA_CONFIGURATION_Switch_Testing]
 "PROJECT_FILES_MODIFIED_DATA_TAG" "TRUE" 
 [SESSIONS_Switch_Testing]
 "DefaultSession" 
+"legend" 
+"legendv1" 
+[GENERAL_DATA_CONFIGURATION_SESSION_Switch_Debug_legend]
 [GENERAL_DATA_CONFIGURATION_SESSION_Switch_Debug_DefaultSession]
 [GENERAL_DATA_CONFIGURATION_SESSION_Gratis_Release_DefaultSession]
 [GENERAL_DATA_CONFIGURATION_SESSION_Gratis_Debug_DefaultSession]
+[GENERAL_DATA_SESSION_legendv1]
+[GENERAL_DATA_CONFIGURATION_SESSION_Flash_Debug_legend]
 [GENERAL_DATA_SESSION_DefaultSession]
 [GENERAL_DATA_CONFIGURATION_SESSION_Gratis_Testing_DefaultSession]
+[GENERAL_DATA_CONFIGURATION_SESSION_Flash_Debug_legendv1]
+[GENERAL_DATA_CONFIGURATION_SESSION_Gratis_Debug_legendv1]
+[GENERAL_DATA_CONFIGURATION_SESSION_Gratis_Release_legend]
+[GENERAL_DATA_CONFIGURATION_SESSION_Switch_Debug_legendv1]
+[GENERAL_DATA_CONFIGURATION_SESSION_Gratis_Testing_legendv1]
+[GENERAL_DATA_CONFIGURATION_SESSION_Switch_Testing_legendv1]
+[GENERAL_DATA_CONFIGURATION_SESSION_Gratis_Debug_legend]
+[GENERAL_DATA_CONFIGURATION_SESSION_Flash_Testing_legend]
+[GENERAL_DATA_CONFIGURATION_SESSION_Gratis_Testing_legend]
 [GENERAL_DATA_CONFIGURATION_SESSION_Switch_Testing_DefaultSession]
+[GENERAL_DATA_CONFIGURATION_SESSION_Flash_Testing_legendv1]
 [GENERAL_DATA_CONFIGURATION_SESSION_Flash_Testing_DefaultSession]
 [GENERAL_DATA_CONFIGURATION_SESSION_Flash_Debug_DefaultSession]
+[GENERAL_DATA_CONFIGURATION_SESSION_Switch_Testing_legend]
+[GENERAL_DATA_SESSION_legend]
+[GENERAL_DATA_CONFIGURATION_SESSION_Gratis_Release_legendv1]
 [END]
