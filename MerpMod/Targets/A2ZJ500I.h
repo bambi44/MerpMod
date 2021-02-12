@@ -1,5 +1,5 @@
-#define MOD_ECUID 6789C3499D
-#define MOD_DATE 12.02.21.01.26
+#define MOD_ECUID EC69BF6461
+#define MOD_DATE 12.02.21.06.11
 #include "Gratis.h"
 #define MOD_CONFIG Gratis
 #define MOD_BUILD Testing
@@ -27,9 +27,9 @@
 #define tCrankingFuelC (0x000546E0)
 #define tCrankingFuelD (0x000546F4)
 #define tStartupEnrich2_1A (0x0005D8C2)
-#define tStartupEnrich2_1B (0x00054780)
-#define tStartupEnrich2_2A (0x0005476C)
-#define tStartupEnrich2_2B (0x00054794)
+#define tStartupEnrich2_1B (0x0005D8E2)
+#define tStartupEnrich2_2A (0x0005D902)
+#define tStartupEnrich2_2B (0x0005D922)
 #define tStartupEnrich3_1A (0x00054708)
 #define tStartupEnrich3_1B (0x0005471C)
 #define tStartupEnrich3_2A (0x00054730)
@@ -117,16 +117,16 @@
 #define pFbkc4 ((float*)0xFFFFAFC0)
 #define pIam4 ((float*)0xFFFF854C)
 #define pEngineSpeed ((float*)0xFFFFA78C)
-#define pVehicleSpeed ((float*)0xFFFFA77C)
-#define pCoolantTemp ((float*)0xFFFF90C8)
-#define pAtmoPress ((float*)0xFFFF913C)
-#define pManifoldAbsolutePressure ((float*)0xFFFFA4E0)
+#define pVehicleSpeed ((float*)0x0004276C)
+#define pCoolantTemp ((float*)0x0004274C)
+#define pAtmoPress ((float*)0x000427B8)
+#define pManifoldAbsolutePressure ((float*)0xFFFFA528)
 #define pIntakeAirTemp ((float*)0xFFFF90B8)
-#define pMassAirFlow ((float*)0xFFFF90F4)
-#define pMafSensorVoltage ((short*)0xFFFF9022)
-#define pEngineLoad ((float*)0xFFFFA664)
+#define pMassAirFlow ((float*)0x00042778)
+#define pMafSensorVoltage ((short*)0x000427A0)
+#define pEngineLoad ((float*)0xFFFFA6AC)
 #define pReqTorque ((float*)0xFFFFB114)
-#define pThrottlePlate ((float*)0xFFFFA570)
+#define pThrottlePlate ((float*)0xFFFFB168)
 #define pCurrentGear ((unsigned char*)0xFFFFA881)
 #define pAf1Res ((float*)0xFFFFA120)
 
