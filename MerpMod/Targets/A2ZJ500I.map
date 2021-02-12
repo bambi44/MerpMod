@@ -59,20 +59,20 @@
  0000:00033020       nullsub_32
  0000:0003BF4C       aOXTC0f5@
  0000:0003CD2A      Learned_Ignition_Timing_Correction_P153
- 0000:0003CD30       SsmGet_Coolant_Temperature_P2
- 0000:0003CD3E       SsmGet_AF_Correction_1_P3
- 0000:0003CD5A       SsmGet_AF_Learning_1_P4
- 0000:0003CD6A       SsmGet_Boost_Pressure_actual_P7
- 0000:0003CD78       SsmGet_Engine_Speed_P8
- 0000:0003CDA6       SsmGet_Vehicle_Speed_P9
- 0000:0003CDB2       SsmGet_Ignition_Total_Timing_P10
- 0000:0003CE1C       SsmGet_Intake_Air_Temperature_P11
- 0000:0003CE2A       SsmGet_Mass_Airflow_P12
- 0000:0003CE58       SsmGet_Throttle_Opening_Angle_P13
- 0000:0003CE66       SsmGet_Rear_O2_Sensor_P15
- 0000:0003CE94       SsmGet_Battery_Voltage_P17
- 0000:0003CEA2       SsmGet_Mass_Airflow_Sensor_Voltage_P18
- 0000:0003CEC6       SsmGet_Throttle_Sensor_Voltage_P19
+ 0000:0003CD30     Coolant_Temperature_P2
+ 0000:0003CD3E      AF_Correction_1_P3
+ 0000:0003CD5A      AF_Learning_1_P4
+ 0000:0003CD6A      Boost_Pressure_actual_P7
+ 0000:0003CD78       Engine_Speed_P8
+ 0000:0003CDA6      Vehicle_Speed_P9
+ 0000:0003CDB2       Ignition_Total_Timing_P10
+ 0000:0003CE1C      Intake_Air_Temperature_P11
+ 0000:0003CE2A      Mass_Airflow_P12
+ 0000:0003CE58      Throttle_Opening_Angle_P13
+ 0000:0003CE66     Rear_O2_Sensor_P15
+ 0000:0003CE94       Battery_Voltage_P17
+ 0000:0003CEA2      Mass_Airflow_Sensor_Voltage_P18
+ 0000:0003CEC6       Throttle_Sensor_Voltage_P19
  0000:0003CEEA       SsmGet_Fuel_Injector_1_Pulse_Width_P21
  0000:0003CEFE       SsmGet_Knock_Correction_Advance_P23
  0000:0003CF0E       SsmGet_Atmospheric_Pressure_P24

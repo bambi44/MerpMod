@@ -368,14 +368,17 @@
 [WINDOW_POSITION_STATE_DATA_VD3]
 [WINDOW_POSITION_STATE_DATA_VD4]
 [WINDOW_Z_ORDER]
-"C:\DEV\MerpMod\MerpMod\SpeedDensity.c" 
+"C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.h" 
 "{WK_00000001_OUTPUT} WINDOW" 
+"C:\DEV\MerpMod\MerpMod\BlendAndSwitch.c" 
+"C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.map" 
+"C:\DEV\MerpMod\MerpMod\SH7055.h" 
+"C:\DEV\MerpMod\MerpMod\EcuHacks.h" 
+"C:\DEV\MerpMod\MerpMod\SpeedDensity.c" 
 "C:\DEV\MerpMod\MerpMod\SwitchChecks.c" 
 "C:\DEV\MerpMod\MerpMod\TimingHacks.c" 
 "C:\DEV\MerpMod\MerpMod\Debug.c" 
 "C:\DEV\MerpMod\MerpMod\EcuHacks.c" 
-"C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.map" 
-"C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.h" 
 "C:\DEV\MerpMod\MerpMod\BoostHacks.c" 
 "C:\DEV\MerpMod\MerpMod\Identifier.c" 
 [TARGET_NAME]

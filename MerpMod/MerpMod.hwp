@@ -143,6 +143,7 @@
 "Object file" "GNU Linker" "GNU Assembler" 
 "Object file" "GNU Linker" "GNU Compiler" 
 [PROJECT_FILES]
+"C:\DEV\MerpMod\MerpMod\TargetsA2ZJ500I.map_converted.idc" "User" "C header file|ECU Specific Headers|USDM|FXT|A2ZJ500I_USDM_2004_FXT" 0 
 "C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.h" "User" "C header file|ECU Specific Headers|USDM|FXT|A2ZJ500I_USDM_2004_FXT" 2 
 "C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.map" "User" "C header file|ECU Specific Headers|USDM|FXT|A2ZJ500I_USDM_2004_FXT" 2 
 "C:\DEV\MerpMod\MerpMod\Targets\A2ZJ500I.txt" "User" "C header file|ECU Specific Headers|USDM|FXT|A2ZJ500I_USDM_2004_FXT" 2 
@@ -461,7 +462,7 @@
 "MAKEGEN_MAKEFILE_RELATIVITY" "1" 
 "MAKEGEN_SCAN_DEPENDENCIES_WHILST_BUILDING_MAKEFILE" "1" 
 "MAKEGEN_USE_STATIC_SUBCOMMAND_FILES" "0" 
-"USE_CUSTOM_LINKAGE_ORDER" "0" 
+"USE_CUSTOM_LINKAGE_ORDER" "1" 
 [ON_DEMAND_COMPONENTS_LOADED]
 [SYNC_SESSION_NAMES]
 [SESSIONS]
@@ -803,7 +804,7 @@
 [OPTIONS_Gratis_Testing_GNU Library Generator]
 "Single Shot" "06031e23307eec10" 1 
 [OPTIONS_Gratis_Testing_GNU Linker]
-"Single Shot" "00a6a76ece80fc10" 4 
+"Single Shot" "0cb21923b7cf6d10" 4 
 [OPTIONS_Gratis_Testing_Git Hash]
 "Single Shot" "0805e2db56043d10" 0 
 [OPTIONS_Gratis_Testing_Target Selection]
@@ -830,6 +831,44 @@
 [OUTPUT_FILES_Gratis_Testing_Update Test Rom]
 [EXCLUDED_FILES_Gratis_Testing]
 [LINKAGE_ORDER_Gratis_Testing]
+"c:\dev\merpmod\merpmod\gratis_testing\blendandswitch.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\boosthacks.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\boosthacktables.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\celflash.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\celflashtables.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\celflashtests.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\debug.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\definition.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\ecuhacks.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\fuelhacks.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\fuelhacktables.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\functions.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\generictests.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\identifier.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\initializer.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\mapswitchtables.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\metadata.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\portlogger.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\progmode.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\progmodetables.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\progmodetests.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\pullramhooks.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\resethandler.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\revlimiter.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\revlimitertables.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\revlimitertests.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\sparkhacks.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\speeddensity.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\speeddensitytables.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\speeddensitytests.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\switchchecks.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\tablehacktests.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\testutilities.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\timinghacks.o" 
+"c:\dev\merpmod\merpmod\gratis_testing\timinghacktables.o" 
+"libgcc.a" 
+"libgcc-os-4-200.a" 
+"libmerpmod.a" 
 [GENERAL_DATA_CONFIGURATION_Gratis_Testing]
 [OPTIONS_Switch_Debug_GNU Assembler]
 "Assembly source file" "0e6b7e3668af6d10" 3 
