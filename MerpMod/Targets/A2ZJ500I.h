@@ -12,8 +12,9 @@
 
 #define dCalId (0x00002000)
 #define dEcuId (0x0006229C)
-#define dRomHoleStart (0x0007E67C)
-#define pRamHoleStart (0xFFFFC430)
+#define dRomHoleStart (0xFFFF8550)
+#define pRamHoleStart (0xFFFFAA9C)
+#define pRamHoleEnd (0xFFFFA9F0)
 #define sPull2DFloat (0x0000208C)
 #define sPull3DFloat (0x00002100)
 
