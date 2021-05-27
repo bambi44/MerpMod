@@ -3,12 +3,12 @@
 [DATABASE_VERSION]
 "11.0" 
 [WORKSPACE_DETAILS]
-"legend" "C:\Dev\merpmod\WorkSpace\legend" "C:\Dev\merpmod\WorkSpace\legend\legend.hws" "SuperH RISC engine" "KPIT GNUSH [ELF]" 
+"legend" "C:\DEV\Legend\WorkSpace\legend" "C:\DEV\Legend\WorkSpace\legend\legend.hws" "SuperH RISC engine" "KPIT GNUSH [ELF]" 
 [SHARED_WORKSPACE_CONTROL_STATUS]
 "" "" "" 
 "" "" "" 
 [PROJECTS]
-"legend" "C:\Dev\merpmod\WorkSpace\legend\legend" "C:\Dev\merpmod\WorkSpace\legend\legend\legend.hwp" 0 
+"legend" "C:\DEV\Legend\WorkSpace\legend\legend" "C:\DEV\Legend\WorkSpace\legend\legend\legend.hwp" 0 
 [INFORMATION]
 "No workspace information available" 
 [SCRAP]
@@ -21,7 +21,12 @@
 [MAKEFILE_BUILD_INFO]
 "$(WORKSPDIR)\make\$(PROJECTNAME)_$(CONFIGNAME).mak" "" "$(WORKSPDIR)\make" 0 0 0 
 [VD_CONFIGURATION_OPTIONS]
+"ACTIVE_DESKTOP" "0" 
 [VD_CONFIGURATIONS]
+"0" "Default1" "1" 
+"1" "Default2" "1" 
+"2" "Default3" "1" 
+"3" "Default4" "1" 
 [OPTIONS_DEBUG_TAB]
 0 0 0 0 0 
 [VCS]

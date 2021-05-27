@@ -7,9 +7,11 @@
 [GENERAL_DATA]
 [BREAKPOINTS]
 [OPEN_WORKSPACE_FILES]
-"C:\DEV\MerpMod\WorkSpace\legend\legend\idatranslation.h" 
+"C:\DEV\Legend\MerpMod\Targets\A2ZJ500I.h" 
+"C:\DEV\Legend\MerpMod\Targets\A2ZJ500I.map" 
 [WORKSPACE_FILE_STATES]
-"C:\DEV\MerpMod\WorkSpace\legend\legend\idatranslation.h" -4 -27 939 591 1 1 
+"C:\DEV\Legend\MerpMod\Targets\A2ZJ500I.h" 52 52 749 378 0 1 
+"C:\DEV\Legend\MerpMod\Targets\A2ZJ500I.map" 26 26 749 378 0 0 
 [LOADED_PROJECTS]
 "legend" 
 [END]

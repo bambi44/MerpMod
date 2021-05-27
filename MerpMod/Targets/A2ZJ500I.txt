@@ -4,7 +4,7 @@ SECTIONS
 	{
 		*(RevLimit)
 	}
-	ROMHOLE_START 0x0007E67C : AT (0x0007E67C)
+	ROMHOLE_START 0xFFFF8550 : AT (0xFFFF8550)
 	{
 		*(RomHole_Identifier)
 		*(RomHole_Misc)
@@ -22,7 +22,7 @@ SECTIONS
 		*(RomHole_Functions)
 		*(RomHole_RomHoleEndMarker)
 	}
-	RAMHOLE_START 0xFFFFC430 : AT (0xFFFFC430)
+	RAMHOLE_START 0xFFFFAA9C : AT (0xFFFFAA9C)
 	{
 		*(RamHole)
 	}

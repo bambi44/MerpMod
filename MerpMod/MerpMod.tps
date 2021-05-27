@@ -45,7 +45,7 @@
 "legend" 
 "legendv1" 
 [GENERAL_DATA_CONFIGURATION_Gratis_Testing]
-"PROJECT_FILES_MODIFIED_DATA_TAG" "FALSE" 
+"PROJECT_FILES_MODIFIED_DATA_TAG" "TRUE" 
 [SESSIONS_Gratis_Testing]
 "DefaultSession" 
 "legend" 

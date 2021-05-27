@@ -1,5 +1,5 @@
-#define MOD_ECUID EC69BF6461
-#define MOD_DATE 12.02.21.06.11
+#define MOD_ECUID 426B0400B3
+#define MOD_DATE 12.02.21.20.26
 #include "Gratis.h"
 #define MOD_CONFIG Gratis
 #define MOD_BUILD Testing
@@ -15,8 +15,6 @@
 #define dRomHoleStart (0xFFFF8550)
 #define pRamHoleStart (0xFFFFAA9C)
 #define pRamHoleEnd (0xFFFFA9F0)
-#define sPull2DFloat (0x0000208C)
-#define sPull3DFloat (0x00002100)
 
 /////////////////////
 // Switch Hacks
